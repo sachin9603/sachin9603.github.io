@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align="center"> 😇(Hello everyone) 👋</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<p>A passionate Backend developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products. Looking forward to starting the journey as a backend developer.</p?
+<p align="center">A passionate Backend developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products. Looking forward to starting the journey as a backend developer.</p?
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
@@ -34,25 +34,7 @@
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin9603&theme=radical&langs_count=8" alt="Sachin Parmar" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=sachin9603&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
-<div>
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">  
+  
                                                          
 <h3 align="left">Connect with me</h3>
 <p align="center">
