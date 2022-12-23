@@ -33,8 +33,13 @@
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin9603&theme=radical&langs_count=8" alt="Sachin Parmar" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=sachin9603&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
-  
+  <div>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+<div align="center">  
                                                          
 <h3 align="left">Connect with me</h3>
 <p align="center">
