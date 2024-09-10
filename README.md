@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning at *Masai School*
 - 💬 Ask me about *Java*
 - 👨‍💻 This is [My Portfolio](https://sachin9603.github.io/sachin9603/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1143vuM-nLjD6xwWB-a3FAVdYSPsKjNGp/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1D9ZLaTdOxNJQzjXPscZRRUyXHpxDpAE-/view?usp=drive_link)
 - 📫 How to reach me: ...*sachinparmar3803@gmail.com*
 
 
